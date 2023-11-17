@@ -8,7 +8,7 @@ year;director;genre;film;winner
 1929;Harry Beaumont;;The Broadway Melody;FALSE
 1929;Irving Cummings;;In Old Arizona;FALSE
 1929;Frank Lloyd;;The Divine Lady;TRUE
-1929;Frank Lloyd;;"Drag;";FALSE
+1929;Frank Lloyd;;Drag;;FALSE
 1929;Ernst Lubitsch;;The Patriot;FALSE
 1930;Clarence Brown;;"Anna Christie;";FALSE
 1930;Robert Leonard;;The Divorcee;FALSE
@@ -237,7 +237,7 @@ year;director;genre;film;winner
 1977;Ingmar Bergman;;Face to Face;FALSE
 1977;Sidney Lumet;;Network;FALSE
 1977;John G. Avildsen;;Rocky;TRUE
-1977;Lina WertmŸller;;Seven Beauties;FALSE
+1977;Lina WertmÂŸller;;Seven Beauties;FALSE
 1978;Woody Allen;;Annie Hall;TRUE
 1978;Steven Spielberg;;Close Encounters of the Third Kind;FALSE
 1978;Fred Zinnemann;;Julia;FALSE
@@ -275,7 +275,7 @@ year;director;genre;film;winner
 1984;James L. Brooks;;Terms of Endearment;TRUE
 1985;Milos Forman;;Amadeus;TRUE
 1985;Woody Allen;;Broadway Danny Rose;FALSE
-1985;Roland JoffŽ;;The Killing Fields;FALSE
+1985;Roland JoffÂŽ;;The Killing Fields;FALSE
 1985;David Lean;;A Passage to India;FALSE
 1985;Robert Benton;;Places in the Heart;FALSE
 1986;Hector Babenco;;Kiss of the Spider Woman;FALSE
@@ -285,14 +285,14 @@ year;director;genre;film;winner
 1986;Peter Weir;;Witness;FALSE
 1987;David Lynch;;Blue Velvet;FALSE
 1987;Woody Allen;;Hannah and Her Sisters;FALSE
-1987;Roland JoffŽ;;The Mission;FALSE
+1987;Roland JoffÂŽ;;The Mission;FALSE
 1987;Oliver Stone;;Platoon;TRUE
 1987;James Ivory;;A Room with a View;FALSE
 1988;Adrian Lyne;;Fatal Attraction;FALSE
 1988;John Boorman;;Hope and Glory;FALSE
 1988;Bernardo Bertolucci;;The Last Emperor;TRUE
 1988;Norman Jewison;;Moonstruck;FALSE
-1988;Lasse Hallstršm;;My Life as a Dog;FALSE
+1988;Lasse HallstrÂšm;;My Life as a Dog;FALSE
 1989;Charles Crichton;;A Fish Called Wanda;FALSE
 1989;Martin Scorsese;;The Last Temptation of Christ;FALSE
 1989;Alan Parker;;Mississippi Burning;FALSE
@@ -350,7 +350,7 @@ year;director;genre;film;winner
 1999;Peter Weir;;The Truman Show;FALSE
 2000;Sam Mendes;;American Beauty;TRUE
 2000;Spike Jonze;;Being John Malkovich;FALSE
-2000;Lasse Hallstršm;;The Cider House Rules;FALSE
+2000;Lasse HallstrÂšm;;The Cider House Rules;FALSE
 2000;Michael Mann;;The Insider;FALSE
 2000;M. Night Shyamalan;;The Sixth Sense;FALSE
 2001;Stephen Daldry;;Billy Elliot;FALSE
@@ -367,7 +367,7 @@ year;director;genre;film;winner
 2003;Martin Scorsese;;Gangs of New York;FALSE
 2003;Stephen Daldry;;The Hours;FALSE
 2003;Roman Polanski;;The Pianist;TRUE
-2003;Pedro Almod—var;;Talk to Her;FALSE
+2003;Pedro AlmodÂ—var;;Talk to Her;FALSE
 2004;Fernando Meirelles;;City of God;FALSE
 2004;Peter Jackson;;The Lord of the Rings: The Return of the King;TRUE
 2004;Sofia Coppola;;Lost in Translation;FALSE
@@ -383,7 +383,7 @@ year;director;genre;film;winner
 2006;Paul Haggis;;Crash;FALSE
 2006;George Clooney;;Good Night, and Good Luck.;FALSE
 2006;Steven Spielberg;;Munich;FALSE
-2007;Alejandro Gonz‡lez I–‡rritu;;Babel;FALSE
+2007;Alejandro GonzÂ‡lez IÂ–Â‡rritu;;Babel;FALSE
 2007;Martin Scorsese;;The Departed;TRUE
 2007;Clint Eastwood;;Letters from Iwo Jima;FALSE
 2007;Stephen Frears;;The Queen;FALSE
@@ -419,18 +419,18 @@ year;director;genre;film;winner
 2013;Steven Spielberg;;Lincoln;FALSE
 2013;David O. Russell;;Silver Linings Playbook;FALSE
 2014;David O. Russell;;American Hustle;FALSE
-2014;Alfonso Cuar—n;;Gravity;TRUE
+2014;Alfonso CuarÂ—n;;Gravity;TRUE
 2014;Alexander Payne;;Nebraska;FALSE
 2014;Steve McQueen;;12 Years a Slave;FALSE
 2014;Martin Scorsese;;The Wolf of Wall Street;FALSE
-2015;Alejandro G. I–‡rritu;;Birdman or (The Unexpected Virtue of Ignorance);TRUE
+2015;Alejandro G. IÂ–Â‡rritu;;Birdman or (The Unexpected Virtue of Ignorance);TRUE
 2015;Richard Linklater;;Boyhood;FALSE
 2015;Bennett Miller;;Foxcatcher;FALSE
 2015;Wes Anderson;;The Grand Budapest Hotel;FALSE
 2015;Morten Tyldum;;The Imitation Game;FALSE
 2016;Adam McKay;;The Big Short;FALSE
 2016;George Miller;;Mad Max: Fury Road;FALSE
-2016;Alejandro G. I–‡rritu;;The Revenant;TRUE
+2016;Alejandro G. IÂ–Â‡rritu;;The Revenant;TRUE
 2016;Lenny Abrahamson;;Room;FALSE
 2016;Tom McCarthy;;Spotlight;FALSE
 2017;Denis Villeneuve;;Arrival;FALSE
@@ -446,7 +446,7 @@ year;director;genre;film;winner
 2019;Spike Lee;;BlacKkKlansman;FALSE
 2019;Pawel Pawlikowski;;Cold War;FALSE
 2019;Yorgos Lanthimos;;The Favourite;FALSE
-2019;Alfonso Cuar—n;;Roma;TRUE
+2019;Alfonso CuarÂ—n;;Roma;TRUE
 2019;Adam McKay;;Vice;FALSE
 2020;Martin Scorsese;;The Irishman;FALSE
 2020;Todd Phillips;;Joker;FALSE
@@ -456,7 +456,7 @@ year;director;genre;film;winner
 2021;Thomas Vinterberg;;Another Round;FALSE
 2021;David Fincher;;Mank;FALSE
 2021;Lee Isaac Chung;;Minari;FALSE
-2021;ChloŽ Zhao;;Nomadland;TRUE
+2021;ChloÂŽ Zhao;;Nomadland;TRUE
 2021;Emerald Fennell;;Promising Young Woman;FALSE
 2022;Kenneth Branagh;;Belfast;FALSE
 2022;Ryusuke Hamaguchi;;Drive My Car;FALSE
@@ -466,5 +466,5 @@ year;director;genre;film;winner
 2023;Martin McDonagh;;The Banshees of Inisherin;FALSE
 2023;Daniel Kwan and Daniel Scheinert;;Everything Everywhere All at Once;TRUE
 2023;Steven Spielberg;;The Fabelmans;FALSE
-2023;Todd Field;;T‡r;FALSE
-2023;Ruben …stlund;;Triangle of Sadness;FALSE
+2023;Todd Field;;TÂ‡r;FALSE
+2023;Ruben Â…stlund;;Triangle of Sadness;FALSE
