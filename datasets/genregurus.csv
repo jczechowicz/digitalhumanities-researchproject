@@ -1,0 +1,470 @@
+year;director;genre;film;winner
+1928;Lewis Milestone;comedy;Two Arabian Knights;TRUE
+1928;Ted Wilde;comedy;Speedy;FALSE
+1928;Frank Borzage;drama;7th Heaven;TRUE
+1928;Herbert Brenon;drama;Sorrell and Son;FALSE
+1928;King Vidor;drama;The Crowd;FALSE
+1929;Lionel Barrymore;;Madame X;FALSE
+1929;Harry Beaumont;;The Broadway Melody;FALSE
+1929;Irving Cummings;;In Old Arizona;FALSE
+1929;Frank Lloyd;;The Divine Lady;TRUE
+1929;Frank Lloyd;;"Drag;";FALSE
+1929;Ernst Lubitsch;;The Patriot;FALSE
+1930;Clarence Brown;;"Anna Christie;";FALSE
+1930;Robert Leonard;;The Divorcee;FALSE
+1930;Ernst Lubitsch;;The Love Parade;FALSE
+1930;Lewis Milestone;;All Quiet on the Western Front;TRUE
+1930;King Vidor;;Hallelujah;FALSE
+1931;Wesley Ruggles;;Cimarron;FALSE
+1931;Clarence Brown;;A Free Soul;FALSE
+1931;Lewis Milestone;;The Front Page;FALSE
+1931;Josef Von Sternberg;;Morocco;FALSE
+1931;Norman Taurog;;Skippy;TRUE
+1932;Frank Borzage;;Bad Girl;TRUE
+1932;King Vidor;;The Champ;FALSE
+1932;Josef Von Sternberg;;Shanghai Express;FALSE
+1933;Frank Lloyd;;Cavalcade;TRUE
+1933;Frank Capra;;Lady for a Day;FALSE
+1933;George Cukor;;Little Women;FALSE
+1935;Frank Capra;;It Happened One Night;TRUE
+1935;Victor Schertzinger;;One Night of Love;FALSE
+1935;W. S. Van Dyke;;The Thin Man;FALSE
+1936;Michael Curtiz;;Captain Blood;FALSE
+1936;John Ford;;The Informer;TRUE
+1936;Henry Hathaway;;The Lives of a Bengal Lancer;FALSE
+1936;Frank Lloyd;;Mutiny on the Bounty;FALSE
+1937;William Wyler;;Dodsworth;FALSE
+1937;Robert Z. Leonard;;The Great Ziegfeld;FALSE
+1937;Frank Capra;;Mr. Deeds Goes to Town;TRUE
+1937;Gregory La Cava;;My Man Godfrey;FALSE
+1937;W. S. Van Dyke;;San Francisco;FALSE
+1938;Leo McCarey;;The Awful Truth;TRUE
+1938;Sidney Franklin;;The Good Earth;FALSE
+1938;William Dieterle;;The Life of Emile Zola;FALSE
+1938;Gregory La Cava;;Stage Door;FALSE
+1938;William Wellman;;A Star Is Born;FALSE
+1939;Michael Curtiz;;Angels with Dirty Faces;FALSE
+1939;Norman Taurog;;Boys Town;FALSE
+1939;King Vidor;;The Citadel;FALSE
+1939;Michael Curtiz;;Four Daughters;FALSE
+1939;Frank Capra;;You Can't Take It with You;TRUE
+1940;Victor Fleming;;Gone with the Wind;TRUE
+1940;Sam Wood;;Goodbye, Mr. Chips;FALSE
+1940;Frank Capra;;Mr. Smith Goes to Washington;FALSE
+1940;John Ford;;Stagecoach;FALSE
+1940;William Wyler;;Wuthering Heights;FALSE
+1941;John Ford;;The Grapes of Wrath;TRUE
+1941;Sam Wood;;Kitty Foyle;FALSE
+1941;William Wyler;;The Letter;FALSE
+1941;George Cukor;;The Philadelphia Story;FALSE
+1941;Alfred Hitchcock;;Rebecca;FALSE
+1942;Orson Welles;;Citizen Kane;FALSE
+1942;Alexander Hall;;Here Comes Mr. Jordan;FALSE
+1942;John Ford;;How Green Was My Valley;TRUE
+1942;William Wyler;;The Little Foxes;FALSE
+1942;Howard Hawks;;Sergeant York;FALSE
+1943;Sam Wood;;Kings Row;FALSE
+1943;William Wyler;;Mrs. Miniver;TRUE
+1943;Mervyn LeRoy;;Random Harvest;FALSE
+1943;John Farrow;;Wake Island;FALSE
+1943;Michael Curtiz;;Yankee Doodle Dandy;FALSE
+1944;Michael Curtiz;;Casablanca;TRUE
+1944;Ernst Lubitsch;;Heaven Can Wait;FALSE
+1944;Clarence Brown;;The Human Comedy;FALSE
+1944;George Stevens;;The More the Merrier;FALSE
+1944;Henry King;;The Song of Bernadette;FALSE
+1945;Billy Wilder;;Double Indemnity;FALSE
+1945;Leo McCarey;;Going My Way;TRUE
+1945;Otto Preminger;;Laura;FALSE
+1945;Alfred Hitchcock;;Lifeboat;FALSE
+1945;Henry King;;Wilson;FALSE
+1946;Leo McCarey;;The Bells of St. Mary's;FALSE
+1946;Billy Wilder;;The Lost Weekend;TRUE
+1946;Clarence Brown;;National Velvet;FALSE
+1946;Jean Renoir;;The Southerner;FALSE
+1946;Alfred Hitchcock;;Spellbound;FALSE
+1947;William Wyler;;The Best Years of Our Lives;TRUE
+1947;David Lean;;Brief Encounter;FALSE
+1947;Frank Capra;;It's a Wonderful Life;FALSE
+1947;Robert Siodmak;;The Killers;FALSE
+1947;Clarence Brown;;The Yearling;FALSE
+1948;Henry Koster;;The Bishop's Wife;FALSE
+1948;Edward Dmytryk;;Crossfire;FALSE
+1948;George Cukor;;A Double Life;FALSE
+1948;Elia Kazan;;Gentleman's Agreement;TRUE
+1948;David Lean;;Great Expectations;FALSE
+1949;Laurence Olivier;;Hamlet;FALSE
+1949;Jean Negulesco;;Johnny Belinda;FALSE
+1949;Fred Zinnemann;;The Search;FALSE
+1949;Anatole Litvak;;The Snake Pit;FALSE
+1949;John Huston;;The Treasure of the Sierra Madre;TRUE
+1950;Robert Rossen;;All the King's Men;FALSE
+1950;William A. Wellman;;Battleground;FALSE
+1950;Carol Reed;;The Fallen Idol;FALSE
+1950;William Wyler;;The Heiress;FALSE
+1950;Joseph L. Mankiewicz;;A Letter to Three Wives;TRUE
+1951;Joseph L. Mankiewicz;;All about Eve;TRUE
+1951;John Huston;;The Asphalt Jungle;FALSE
+1951;George Cukor;;Born Yesterday;FALSE
+1951;Billy Wilder;;Sunset Blvd.;FALSE
+1951;Carol Reed;;The Third Man;FALSE
+1952;John Huston;;The African Queen;FALSE
+1952;Vincente Minnelli;;An American in Paris;FALSE
+1952;William Wyler;;Detective Story;FALSE
+1952;George Stevens;;A Place in the Sun;TRUE
+1952;Elia Kazan;;A Streetcar Named Desire;FALSE
+1953;Joseph L. Mankiewicz;;Five Fingers;FALSE
+1953;Cecil B. DeMille;;The Greatest Show on Earth;FALSE
+1953;Fred Zinnemann;;High Noon;FALSE
+1953;John Huston;;Moulin Rouge;FALSE
+1953;John Ford;;The Quiet Man;TRUE
+1954;Fred Zinnemann;;From Here to Eternity;TRUE
+1954;Charles Walters;;Lili;FALSE
+1954;William Wyler;;Roman Holiday;FALSE
+1954;George Stevens;;Shane;FALSE
+1954;Billy Wilder;;Stalag 17;FALSE
+1955;George Seaton;;The Country Girl;FALSE
+1955;William Wellman;;The High and the Mighty;FALSE
+1955;Elia Kazan;;On the Waterfront;TRUE
+1955;Alfred Hitchcock;;Rear Window;FALSE
+1955;Billy Wilder;;Sabrina;FALSE
+1956;John Sturges;;Bad Day at Black Rock;FALSE
+1956;Elia Kazan;;East of Eden;FALSE
+1956;Delbert Mann;;Marty;TRUE
+1956;Joshua Logan;;Picnic;FALSE
+1956;David Lean;;Summertime;FALSE
+1957;Michael Anderson;;Around the World in 80 Days;FALSE
+1957;William Wyler;;Friendly Persuasion;FALSE
+1957;George Stevens;;Giant;TRUE
+1957;Walter Lang;;The King and I;FALSE
+1957;King Vidor;;War and Peace;FALSE
+1958;David Lean;;The Bridge on the River Kwai;TRUE
+1958;Mark Robson;;Peyton Place;FALSE
+1958;Joshua Logan;;Sayonara;FALSE
+1958;Sidney Lumet;;12 Angry Men;FALSE
+1958;Billy Wilder;;Witness for the Prosecution;FALSE
+1959;Richard Brooks;;Cat on a Hot Tin Roof;FALSE
+1959;Stanley Kramer;;The Defiant Ones;FALSE
+1959;Vincente Minnelli;;Gigi;TRUE
+1959;Robert Wise;;I Want to Live!;FALSE
+1959;Mark Robson;;The Inn of the Sixth Happiness;FALSE
+1960;William Wyler;;Ben-Hur;TRUE
+1960;George Stevens;;The Diary of Anne Frank;FALSE
+1960;Fred Zinnemann;;The Nun's Story;FALSE
+1960;Jack Clayton;;Room at the Top;FALSE
+1960;Billy Wilder;;Some Like It Hot;FALSE
+1961;Billy Wilder;;The Apartment;TRUE
+1961;Jules Dassin;;Never on Sunday;FALSE
+1961;Alfred Hitchcock;;Psycho;FALSE
+1961;Jack Cardiff;;Sons and Lovers;FALSE
+1961;Fred Zinnemann;;The Sundowners;FALSE
+1962;J. Lee Thompson;;The Guns of Navarone;FALSE
+1962;Robert Rossen;;The Hustler;FALSE
+1962;Stanley Kramer;;Judgment at Nuremberg;FALSE
+1962;Federico Fellini;;La Dolce Vita;FALSE
+1962;Robert Wise, Jerome Robbins;;West Side Story;TRUE
+1963;Frank Perry;;David and Lisa;FALSE
+1963;Pietro Germi;;Divorce--Italian Style;FALSE
+1963;David Lean;;Lawrence of Arabia;TRUE
+1963;Arthur Penn;;The Miracle Worker;FALSE
+1963;Robert Mulligan;;To Kill a Mockingbird;FALSE
+1964;Elia Kazan;;America America;FALSE
+1964;Otto Preminger;;The Cardinal;FALSE
+1964;Federico Fellini;;Federico Fellini's 8-1/2;FALSE
+1964;Martin Ritt;;Hud;FALSE
+1964;Tony Richardson;;Tom Jones;TRUE
+1965;Peter Glenville;;Becket;FALSE
+1965;Stanley Kubrick;;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;FALSE
+1965;Robert Stevenson;;Mary Poppins;FALSE
+1965;George Cukor;;My Fair Lady;TRUE
+1965;Michael Cacoyannis;;Zorba the Greek;FALSE
+1966;William Wyler;;The Collector;FALSE
+1966;John Schlesinger;;Darling;FALSE
+1966;David Lean;;Doctor Zhivago;FALSE
+1966;Robert Wise;;The Sound of Music;TRUE
+1966;Hiroshi Teshigahara;;Woman in the Dunes;FALSE
+1967;Michelangelo Antonioni;;Blow-Up;FALSE
+1967;Claude Lelouch;;A Man and a Woman;FALSE
+1967;Fred Zinnemann;;A Man for All Seasons;TRUE
+1967;Richard Brooks;;The Professionals;FALSE
+1967;Mike Nichols;;Who's Afraid of Virginia Woolf?;FALSE
+1968;Arthur Penn;;Bonnie and Clyde;FALSE
+1968;Mike Nichols;;The Graduate;TRUE
+1968;Stanley Kramer;;Guess Who's Coming to Dinner;FALSE
+1968;Richard Brooks;;In Cold Blood;FALSE
+1968;Norman Jewison;;In the Heat of the Night;FALSE
+1969;Gillo Pontecorvo;;The Battle of Algiers;FALSE
+1969;Anthony Harvey;;The Lion in Winter;FALSE
+1969;Carol Reed;;Oliver!;TRUE
+1969;Franco Zeffirelli;;Romeo and Juliet;FALSE
+1969;Stanley Kubrick;;2001: A Space Odyssey;FALSE
+1970;Arthur Penn;;Alice's Restaurant;FALSE
+1970;George Roy Hill;;Butch Cassidy and the Sundance Kid;FALSE
+1970;John Schlesinger;;Midnight Cowboy;TRUE
+1970;Sydney Pollack;;They Shoot Horses, Don't They?;FALSE
+1970;Costa-Gavras;;Z;FALSE
+1971;Federico Fellini;;Fellini Satyricon;FALSE
+1971;Arthur Hiller;;Love Story;FALSE
+1971;Robert Altman;;M*A*S*H;FALSE
+1971;Franklin J. Schaffner;;Patton;TRUE
+1971;Ken Russell;;Women in Love;FALSE
+1972;Stanley Kubrick;;A Clockwork Orange;FALSE
+1972;Norman Jewison;;Fiddler on the Roof;FALSE
+1972;William Friedkin;;The French Connection;TRUE
+1972;Peter Bogdanovich;;The Last Picture Show;FALSE
+1972;John Schlesinger;;Sunday Bloody Sunday;FALSE
+1973;Bob Fosse;;Cabaret;TRUE
+1973;John Boorman;;Deliverance;FALSE
+1973;Jan Troell;;The Emigrants;FALSE
+1973;Francis Ford Coppola;;The Godfather;FALSE
+1973;Joseph L. Mankiewicz;;Sleuth;FALSE
+1974;George Lucas;;American Graffiti;FALSE
+1974;Ingmar Bergman;;Cries and Whispers;FALSE
+1974;William Friedkin;;The Exorcist;FALSE
+1974;Bernardo Bertolucci;;Last Tango in Paris;FALSE
+1974;George Roy Hill;;The Sting;TRUE
+1975;Roman Polanski;;Chinatown;FALSE
+1975;Francois Truffaut;;Day for Night;FALSE
+1975;Francis Ford Coppola;;The Godfather Part II;TRUE
+1975;Bob Fosse;;Lenny;FALSE
+1975;John Cassavetes;;A Woman under the Influence;FALSE
+1976;Federico Fellini;;Amarcord;FALSE
+1976;Stanley Kubrick;;Barry Lyndon;FALSE
+1976;Sidney Lumet;;Dog Day Afternoon;FALSE
+1976;Robert Altman;;Nashville;FALSE
+1976;Milos Forman;;One Flew over the Cuckoo's Nest;TRUE
+1977;Alan J. Pakula;;All the President's Men;FALSE
+1977;Ingmar Bergman;;Face to Face;FALSE
+1977;Sidney Lumet;;Network;FALSE
+1977;John G. Avildsen;;Rocky;TRUE
+1977;Lina Wertmüller;;Seven Beauties;FALSE
+1978;Woody Allen;;Annie Hall;TRUE
+1978;Steven Spielberg;;Close Encounters of the Third Kind;FALSE
+1978;Fred Zinnemann;;Julia;FALSE
+1978;George Lucas;;Star Wars;FALSE
+1978;Herbert Ross;;The Turning Point;FALSE
+1979;Hal Ashby;;Coming Home;FALSE
+1979;Michael Cimino;;The Deer Hunter;TRUE
+1979;Warren Beatty, Buck Henry;;Heaven Can Wait;FALSE
+1979;Woody Allen;;Interiors;FALSE
+1979;Alan Parker;;Midnight Express;FALSE
+1980;Bob Fosse;;All That Jazz;FALSE
+1980;Francis Coppola;;Apocalypse Now;FALSE
+1980;Peter Yates;;Breaking Away;FALSE
+1980;Robert Benton;;Kramer vs. Kramer;TRUE
+1980;Edouard Molinaro;;La Cage aux Folles;FALSE
+1981;David Lynch;;The Elephant Man;FALSE
+1981;Robert Redford;;Ordinary People;TRUE
+1981;Martin Scorsese;;Raging Bull;FALSE
+1981;Richard Rush;;The Stunt Man;FALSE
+1981;Roman Polanski;;Tess;FALSE
+1982;Louis Malle;;Atlantic City;FALSE
+1982;Hugh Hudson;;Chariots of Fire;FALSE
+1982;Mark Rydell;;On Golden Pond;FALSE
+1982;Steven Spielberg;;Raiders of the Lost Ark;FALSE
+1982;Warren Beatty;;Reds;TRUE
+1983;Wolfgang Petersen;;Das Boot;FALSE
+1983;Steven Spielberg;;E.T. The Extra-Terrestrial;FALSE
+1983;Richard Attenborough;;Gandhi;TRUE
+1983;Sydney Pollack;;Tootsie;FALSE
+1983;Sidney Lumet;;The Verdict;FALSE
+1984;Peter Yates;;The Dresser;FALSE
+1984;Ingmar Bergman;;Fanny & Alexander;FALSE
+1984;Mike Nichols;;Silkwood;FALSE
+1984;Bruce Beresford;;Tender Mercies;FALSE
+1984;James L. Brooks;;Terms of Endearment;TRUE
+1985;Milos Forman;;Amadeus;TRUE
+1985;Woody Allen;;Broadway Danny Rose;FALSE
+1985;Roland Joffé;;The Killing Fields;FALSE
+1985;David Lean;;A Passage to India;FALSE
+1985;Robert Benton;;Places in the Heart;FALSE
+1986;Hector Babenco;;Kiss of the Spider Woman;FALSE
+1986;Sydney Pollack;;Out of Africa;TRUE
+1986;John Huston;;Prizzi's Honor;FALSE
+1986;Akira Kurosawa;;Ran;FALSE
+1986;Peter Weir;;Witness;FALSE
+1987;David Lynch;;Blue Velvet;FALSE
+1987;Woody Allen;;Hannah and Her Sisters;FALSE
+1987;Roland Joffé;;The Mission;FALSE
+1987;Oliver Stone;;Platoon;TRUE
+1987;James Ivory;;A Room with a View;FALSE
+1988;Adrian Lyne;;Fatal Attraction;FALSE
+1988;John Boorman;;Hope and Glory;FALSE
+1988;Bernardo Bertolucci;;The Last Emperor;TRUE
+1988;Norman Jewison;;Moonstruck;FALSE
+1988;Lasse Hallström;;My Life as a Dog;FALSE
+1989;Charles Crichton;;A Fish Called Wanda;FALSE
+1989;Martin Scorsese;;The Last Temptation of Christ;FALSE
+1989;Alan Parker;;Mississippi Burning;FALSE
+1989;Barry Levinson;;Rain Man;TRUE
+1989;Mike Nichols;;Working Girl;FALSE
+1990;Oliver Stone;;Born on the Fourth of July;TRUE
+1990;Woody Allen;;Crimes and Misdemeanors;FALSE
+1990;Peter Weir;;Dead Poets Society;FALSE
+1990;Kenneth Branagh;;Henry V;FALSE
+1990;Jim Sheridan;;My Left Foot;FALSE
+1991;Kevin Costner;;Dances With Wolves;TRUE
+1991;Francis Ford Coppola;;The Godfather, Part III;FALSE
+1991;Martin Scorsese;;Good Fellas;FALSE
+1991;Stephen Frears;;The Grifters;FALSE
+1991;Barbet Schroeder;;Reversal of Fortune;FALSE
+1992;John Singleton;;Boyz N the Hood;FALSE
+1992;Barry Levinson;;Bugsy;FALSE
+1992;Oliver Stone;;JFK;FALSE
+1992;Jonathan Demme;;The Silence of the Lambs;TRUE
+1992;Ridley Scott;;Thelma & Louise;FALSE
+1993;Neil Jordan;;The Crying Game;FALSE
+1993;James Ivory;;Howards End;FALSE
+1993;Robert Altman;;The Player;FALSE
+1993;Martin Brest;;Scent of a Woman;FALSE
+1993;Clint Eastwood;;Unforgiven;TRUE
+1994;Jim Sheridan;;In the Name of the Father;FALSE
+1994;Jane Campion;;The Piano;FALSE
+1994;James Ivory;;The Remains of the Day;FALSE
+1994;Steven Spielberg;;Schindler's List;TRUE
+1994;Robert Altman;;Short Cuts;FALSE
+1995;Woody Allen;;Bullets over Broadway;FALSE
+1995;Robert Zemeckis;;Forrest Gump;TRUE
+1995;Quentin Tarantino;;Pulp Fiction;FALSE
+1995;Robert Redford;;Quiz Show;FALSE
+1995;Krzysztof Kieslowski;;Red;FALSE
+1996;Chris Noonan;;Babe;FALSE
+1996;Mel Gibson;;Braveheart;TRUE
+1996;Tim Robbins;;Dead Man Walking;FALSE
+1996;Mike Figgis;;Leaving Las Vegas;FALSE
+1996;Michael Radford;;The Postman (Il Postino);FALSE
+1997;Anthony Minghella;;The English Patient;TRUE
+1997;Joel Coen;;Fargo;FALSE
+1997;Milos Forman;;The People vs. Larry Flynt;FALSE
+1997;Mike Leigh;;Secrets & Lies;FALSE
+1997;Scott Hicks;;Shine;FALSE
+1998;Peter Cattaneo;;The Full Monty;FALSE
+1998;Gus Van Sant;;Good Will Hunting;FALSE
+1998;Curtis Hanson;;L.A. Confidential;FALSE
+1998;Atom Egoyan;;The Sweet Hereafter;FALSE
+1998;James Cameron;;Titanic;TRUE
+1999;Roberto Benigni;;Life Is Beautiful;FALSE
+1999;Steven Spielberg;;Saving Private Ryan;TRUE
+1999;John Madden;;Shakespeare in Love;FALSE
+1999;Terrence Malick;;The Thin Red Line;FALSE
+1999;Peter Weir;;The Truman Show;FALSE
+2000;Sam Mendes;;American Beauty;TRUE
+2000;Spike Jonze;;Being John Malkovich;FALSE
+2000;Lasse Hallström;;The Cider House Rules;FALSE
+2000;Michael Mann;;The Insider;FALSE
+2000;M. Night Shyamalan;;The Sixth Sense;FALSE
+2001;Stephen Daldry;;Billy Elliot;FALSE
+2001;Ang Lee;;Crouching Tiger, Hidden Dragon;FALSE
+2001;Steven Soderbergh;;Erin Brockovich;FALSE
+2001;Ridley Scott;;Gladiator;FALSE
+2001;Steven Soderbergh;;Traffic;TRUE
+2002;Ron Howard;;A Beautiful Mind;TRUE
+2002;Ridley Scott;;Black Hawk Down;FALSE
+2002;Robert Altman;;Gosford Park;FALSE
+2002;Peter Jackson;;The Lord of the Rings: The Fellowship of the Ring;FALSE
+2002;David Lynch;;Mulholland Drive;FALSE
+2003;Rob Marshall;;Chicago;FALSE
+2003;Martin Scorsese;;Gangs of New York;FALSE
+2003;Stephen Daldry;;The Hours;FALSE
+2003;Roman Polanski;;The Pianist;TRUE
+2003;Pedro Almodóvar;;Talk to Her;FALSE
+2004;Fernando Meirelles;;City of God;FALSE
+2004;Peter Jackson;;The Lord of the Rings: The Return of the King;TRUE
+2004;Sofia Coppola;;Lost in Translation;FALSE
+2004;Peter Weir;;Master and Commander: The Far Side of the World;FALSE
+2004;Clint Eastwood;;Mystic River;FALSE
+2005;Martin Scorsese;;The Aviator;FALSE
+2005;Clint Eastwood;;Million Dollar Baby;TRUE
+2005;Taylor Hackford;;Ray;FALSE
+2005;Alexander Payne;;Sideways;FALSE
+2005;Mike Leigh;;Vera Drake;FALSE
+2006;Ang Lee;;Brokeback Mountain;TRUE
+2006;Bennett Miller;;Capote;FALSE
+2006;Paul Haggis;;Crash;FALSE
+2006;George Clooney;;Good Night, and Good Luck.;FALSE
+2006;Steven Spielberg;;Munich;FALSE
+2007;Alejandro González Iñárritu;;Babel;FALSE
+2007;Martin Scorsese;;The Departed;TRUE
+2007;Clint Eastwood;;Letters from Iwo Jima;FALSE
+2007;Stephen Frears;;The Queen;FALSE
+2007;Paul Greengrass;;United 93;FALSE
+2008;Julian Schnabel;;The Diving Bell and the Butterfly;FALSE
+2008;Jason Reitman;;Juno;FALSE
+2008;Tony Gilroy;;Michael Clayton;FALSE
+2008;Joel Coen and Ethan Coen;;No Country for Old Men;TRUE
+2008;Paul Thomas Anderson;;There Will Be Blood;FALSE
+2009;David Fincher;;The Curious Case of Benjamin Button;FALSE
+2009;Ron Howard;;Frost/Nixon;FALSE
+2009;Gus Van Sant;;Milk;FALSE
+2009;Stephen Daldry;;The Reader;FALSE
+2009;Danny Boyle;;Slumdog Millionaire;TRUE
+2010;James Cameron;;Avatar;FALSE
+2010;Kathryn Bigelow;;The Hurt Locker;TRUE
+2010;Quentin Tarantino;;Inglourious Basterds;FALSE
+2010;Lee Daniels;;Precious: Based on the Novel 'Push' by Sapphire;FALSE
+2010;Jason Reitman;;Up in the Air;FALSE
+2011;Darren Aronofsky;;Black Swan;FALSE
+2011;David O. Russell;;The Fighter;FALSE
+2011;Tom Hooper;;The King's Speech;TRUE
+2011;David Fincher;;The Social Network;FALSE
+2011;Joel Coen and Ethan Coen;;True Grit;FALSE
+2012;Michel Hazanavicius;;The Artist;TRUE
+2012;Alexander Payne;;The Descendants;FALSE
+2012;Martin Scorsese;;Hugo;FALSE
+2012;Woody Allen;;Midnight in Paris;FALSE
+2012;Terrence Malick;;The Tree of Life;FALSE
+2013;Michael Haneke;;Amour;FALSE
+2013;Benh Zeitlin;;Beasts of the Southern Wild;FALSE
+2013;Ang Lee;;Life of Pi;TRUE
+2013;Steven Spielberg;;Lincoln;FALSE
+2013;David O. Russell;;Silver Linings Playbook;FALSE
+2014;David O. Russell;;American Hustle;FALSE
+2014;Alfonso Cuarón;;Gravity;TRUE
+2014;Alexander Payne;;Nebraska;FALSE
+2014;Steve McQueen;;12 Years a Slave;FALSE
+2014;Martin Scorsese;;The Wolf of Wall Street;FALSE
+2015;Alejandro G. Iñárritu;;Birdman or (The Unexpected Virtue of Ignorance);TRUE
+2015;Richard Linklater;;Boyhood;FALSE
+2015;Bennett Miller;;Foxcatcher;FALSE
+2015;Wes Anderson;;The Grand Budapest Hotel;FALSE
+2015;Morten Tyldum;;The Imitation Game;FALSE
+2016;Adam McKay;;The Big Short;FALSE
+2016;George Miller;;Mad Max: Fury Road;FALSE
+2016;Alejandro G. Iñárritu;;The Revenant;TRUE
+2016;Lenny Abrahamson;;Room;FALSE
+2016;Tom McCarthy;;Spotlight;FALSE
+2017;Denis Villeneuve;;Arrival;FALSE
+2017;Mel Gibson;;Hacksaw Ridge;FALSE
+2017;Damien Chazelle;;La La Land;TRUE
+2017;Kenneth Lonergan;;Manchester by the Sea;FALSE
+2017;Barry Jenkins;;Moonlight;FALSE
+2018;Christopher Nolan;;Dunkirk;FALSE
+2018;Jordan Peele;;Get Out;FALSE
+2018;Greta Gerwig;;Lady Bird;FALSE
+2018;Paul Thomas Anderson;;Phantom Thread;FALSE
+2018;Guillermo del Toro;;The Shape of Water;TRUE
+2019;Spike Lee;;BlacKkKlansman;FALSE
+2019;Pawel Pawlikowski;;Cold War;FALSE
+2019;Yorgos Lanthimos;;The Favourite;FALSE
+2019;Alfonso Cuarón;;Roma;TRUE
+2019;Adam McKay;;Vice;FALSE
+2020;Martin Scorsese;;The Irishman;FALSE
+2020;Todd Phillips;;Joker;FALSE
+2020;Sam Mendes;;1917;FALSE
+2020;Quentin Tarantino;;Once upon a Time...in Hollywood;FALSE
+2020;Bong Joon Ho;;Parasite;TRUE
+2021;Thomas Vinterberg;;Another Round;FALSE
+2021;David Fincher;;Mank;FALSE
+2021;Lee Isaac Chung;;Minari;FALSE
+2021;Chloé Zhao;;Nomadland;TRUE
+2021;Emerald Fennell;;Promising Young Woman;FALSE
+2022;Kenneth Branagh;;Belfast;FALSE
+2022;Ryusuke Hamaguchi;;Drive My Car;FALSE
+2022;Paul Thomas Anderson;;Licorice Pizza;FALSE
+2022;Jane Campion;;The Power of the Dog;TRUE
+2022;Steven Spielberg;;West Side Story;FALSE
+2023;Martin McDonagh;;The Banshees of Inisherin;FALSE
+2023;Daniel Kwan and Daniel Scheinert;;Everything Everywhere All at Once;TRUE
+2023;Steven Spielberg;;The Fabelmans;FALSE
+2023;Todd Field;;Tár;FALSE
+2023;Ruben Östlund;;Triangle of Sadness;FALSE
